@@ -4,4 +4,4 @@ An MS365 auto downloader and activator(Batch)
 # Legal
 # Free
 # Official
-<h2>Please download source code and run "Install.bat"</h2>
+<h2>Please download source code and run "Install2024LTSC.bat"</h2>
