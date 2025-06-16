@@ -4,4 +4,4 @@ An MS365 auto downloader and activator(Batch)
 # Free
 # Official
 # Warning: Please run the batch file in administrator mode!
-<h2>Please download source code and run "Install2024LTSC.bat"</h2>
+<h2>Please download source code and run "Install.exe"</h2>
